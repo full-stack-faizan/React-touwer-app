@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-touwer-app/static/css/main.6e7b5487.css",
+    "main.js": "/React-touwer-app/static/js/main.2d0b0e77.js",
+    "static/js/787.88008f41.chunk.js": "/React-touwer-app/static/js/787.88008f41.chunk.js",
+    "index.html": "/React-touwer-app/index.html",
+    "main.6e7b5487.css.map": "/React-touwer-app/static/css/main.6e7b5487.css.map",
+    "main.2d0b0e77.js.map": "/React-touwer-app/static/js/main.2d0b0e77.js.map",
+    "787.88008f41.chunk.js.map": "/React-touwer-app/static/js/787.88008f41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e7b5487.css",
+    "static/js/main.2d0b0e77.js"
+  ]
+}
